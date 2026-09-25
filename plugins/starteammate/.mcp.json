@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "starteammate": {
+      "type": "http",
+      "url": "https://app.starteammate.com/mcp"
+    }
+  }
+}

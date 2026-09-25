@@ -1,0 +1,12 @@
+{
+  "name": "starteammate",
+  "description": "Connects Claude Code to your Starteammate workspace. Use your agents, computers, libraries, connected apps and mailboxes from your terminal.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Starteammate",
+    "url": "https://starteammate.com"
+  },
+  "homepage": "https://starteammate.com",
+  "repository": "https://github.com/brandonmlicea/starteammate-plugin",
+  "keywords": ["starteammate", "agents", "mcp", "computers", "libraries"]
+}
