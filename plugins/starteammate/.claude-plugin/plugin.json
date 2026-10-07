@@ -1,7 +1,7 @@
 {
   "name": "starteammate",
   "description": "Connects Claude Code to your Starteammate workspace. Use your agents, computers, libraries, connected apps and mailboxes from your terminal.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Starteammate",
     "url": "https://starteammate.com"
